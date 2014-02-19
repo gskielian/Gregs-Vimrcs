@@ -1,0 +1,11 @@
+syntax on
+set number
+set expandtab
+set shiftwidth=2
+set softtabstop=2
+set encoding=utf-8
+set list listchars=trail:∙
+set smartindent
+
+filetype plugin on
+set omnifunc=syntaxcomplete#Complete
