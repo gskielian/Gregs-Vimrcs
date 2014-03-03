@@ -43,6 +43,5 @@ List of Macros
 * Modded macro for logging
 
 ```vim
-oj0i* :r!date | awk '{print $4}'
-VkJ
+:r!date | awk '{print "* " $4}'
 ```
