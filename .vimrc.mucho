@@ -1,0 +1,7 @@
+"TODO add remainder of vimrc with reasons
+
+
+
+"move entire lines
+noremap <c-k> ddkP
+noremap <c-j> ddjP
