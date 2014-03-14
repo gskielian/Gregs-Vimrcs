@@ -1,0 +1,6 @@
+
+
+"band-aid for the Wq problem
+cnoreabbrev Wq wq
+cnoreabbrev WQ wq
+cnoreabbrev W w
