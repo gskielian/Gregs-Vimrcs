@@ -2,6 +2,14 @@
 
 
 
-"move entire lines
+"syntax highlighting -- makes it look kewl
+syntax on
+
+"move entire lines up/down with cntl-k/cntl-j
 noremap <c-k> ddkP
 noremap <c-j> ddjP
+
+"if like me you type :Wq alot, these will help
+cnoabbrev W  w
+cnoabbrev Wq wq
+cnoabbrev WQ wq
